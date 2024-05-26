@@ -1,0 +1,24 @@
+// const colors = require('tailwindcss/colors')
+/** @type {import('tailwindcss').Config} */
+
+module.exports = {
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {
+      backgroundImage: {
+        "hero-background": "url('/src/assets/images/home/hero/bg-hero.png')",
+      },
+      colors: {
+        primary: "#8C5E2D",
+        primary_hover: '#60432C',
+        secondary: "#AD7335",
+
+        darkWhite: "#CED4DA",
+        darkBlack: "#212529",
+        lightBlack: "#343A40",
+        gray: "#6C757D",
+      },
+    },
+  },
+  plugins: [],
+};
