@@ -1,4 +1,4 @@
-import Content from "../pages/about/Content";
+import Content from "./about/Content";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 

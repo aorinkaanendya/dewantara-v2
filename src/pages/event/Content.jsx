@@ -5,7 +5,7 @@ import ImageCard4 from "../../assets/images/home/event/event-4.png";
 import IconCalender from "../../assets/images/home/event/icon-calender.png";
 import IconLocation from "../../assets/images/home/event/icon-loc.png";
 
-function Event() {
+export default function Content() {
   return (
     <section className="bg-[#E9ECEF] py-[72px]">
       <div className="container mx-auto">
@@ -114,5 +114,3 @@ function Event() {
     </section>
   );
 }
-
-export default Event;

@@ -15,10 +15,10 @@ export default function Navbar() {
             <a href="/">Beranda</a>
           </li>
           <li className="navbar-link">
-            <a href="/">Tentang</a>
+            <a href="/About">Tentang</a>
           </li>
           <li className="navbar-link">
-            <a href="/">Event</a>
+            <a href="/Event">Event</a>
           </li>
           <li className="navbar-link">
             <a href="/">Wayang</a>
