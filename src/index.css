@@ -49,6 +49,6 @@
     @apply text-whiteText font-medium text-base hover:text-primary transition-all duration-300;
   }
   .navbar-link {
-    @apply font-semibold text-base hover:text-primary transition-all duration-300;
+    @apply text-smallBlack font-medium text-base hover:text-primary transition-all duration-300;
   }
 }
