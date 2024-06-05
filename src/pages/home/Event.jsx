@@ -19,20 +19,28 @@ function Event() {
           <div className="content-bottom flex flex-col items-center gap-14">
             <div className="content-card grid grid-cols-4 gap-6">
               <div className="card flex flex-col gap-2">
-                <img src={ImageCard1} alt="" className="card-img" />
+                <img src={ImageCard1} alt="Event 1" className="card-img" />
                 <div className="card-body flex flex-col gap-2">
                   <h4 className="text-base font-semibold text-darkBlack">
                     Pesta Wayang 2023 - “Mewayang Hayu Eksistensi & Konservasi”
                   </h4>
                   <div className="wrapper">
                     <div className="wrap flex items-center gap-1">
-                      <img src={IconCalender} alt="" className="max-w-[24px]" />
+                      <img
+                        src={IconCalender}
+                        alt="Calendar Icon"
+                        className="max-w-[24px]"
+                      />
                       <span className="text-sm text-lightBlack font-medium">
                         3 Februari 2024
                       </span>
                     </div>
                     <div className="wrap flex items-center gap-1">
-                      <img src={IconLocation} alt="" className="max-w-[24px]" />
+                      <img
+                        src={IconLocation}
+                        alt="Location Icon"
+                        className="max-w-[24px]"
+                      />
                       <span className="text-sm text-lightBlack font-medium">
                         Sidoarjo
                       </span>
@@ -41,20 +49,28 @@ function Event() {
                 </div>
               </div>
               <div className="card flex flex-col gap-2">
-                <img src={ImageCard2} alt="" className="card-img" />
+                <img src={ImageCard2} alt="Event 2" className="card-img" />
                 <div className="card-body flex flex-col gap-2">
                   <h4 className="text-base font-semibold text-darkBlack">
                     Pesta Wayang 2023 - “Mewayang Hayu Eksistensi & Konservasi”
                   </h4>
                   <div className="wrapper">
                     <div className="wrap flex items-center gap-1">
-                      <img src={IconCalender} alt="" className="max-w-[24px]" />
+                      <img
+                        src={IconCalender}
+                        alt="Calendar Icon"
+                        className="max-w-[24px]"
+                      />
                       <span className="text-sm text-lightBlack font-medium">
                         3 Februari 2024
                       </span>
                     </div>
                     <div className="wrap flex items-center gap-1">
-                      <img src={IconLocation} alt="" className="max-w-[24px]" />
+                      <img
+                        src={IconLocation}
+                        alt="Location Icon"
+                        className="max-w-[24px]"
+                      />
                       <span className="text-sm text-lightBlack font-medium">
                         Sidoarjo
                       </span>
@@ -63,20 +79,28 @@ function Event() {
                 </div>
               </div>
               <div className="card flex flex-col gap-2">
-                <img src={ImageCard3} alt="" className="card-img" />
+                <img src={ImageCard3} alt="Event 3" className="card-img" />
                 <div className="card-body flex flex-col gap-2">
                   <h4 className="text-base font-semibold text-darkBlack">
                     Pesta Wayang 2023 - “Mewayang Hayu Eksistensi & Konservasi”
                   </h4>
                   <div className="wrapper">
                     <div className="wrap flex items-center gap-1">
-                      <img src={IconCalender} alt="" className="max-w-[24px]" />
+                      <img
+                        src={IconCalender}
+                        alt="Calendar Icon"
+                        className="max-w-[24px]"
+                      />
                       <span className="text-sm text-lightBlack font-medium">
                         3 Februari 2024
                       </span>
                     </div>
                     <div className="wrap flex items-center gap-1">
-                      <img src={IconLocation} alt="" className="max-w-[24px]" />
+                      <img
+                        src={IconLocation}
+                        alt="Location Icon"
+                        className="max-w-[24px]"
+                      />
                       <span className="text-sm text-lightBlack font-medium">
                         Sidoarjo
                       </span>
@@ -85,20 +109,28 @@ function Event() {
                 </div>
               </div>
               <div className="card flex flex-col gap-2">
-                <img src={ImageCard4} alt="" className="card-img" />
+                <img src={ImageCard4} alt="Event 4" className="card-img" />
                 <div className="card-body flex flex-col gap-2">
                   <h4 className="text-base font-semibold text-darkBlack">
                     Pesta Wayang 2023 - “Mewayang Hayu Eksistensi & Konservasi”
                   </h4>
                   <div className="wrapper">
                     <div className="wrap flex items-center gap-1">
-                      <img src={IconCalender} alt="" className="max-w-[24px]" />
+                      <img
+                        src={IconCalender}
+                        alt="Calendar Icon"
+                        className="max-w-[24px]"
+                      />
                       <span className="text-sm text-lightBlack font-medium">
                         3 Februari 2024
                       </span>
                     </div>
                     <div className="wrap flex items-center gap-1">
-                      <img src={IconLocation} alt="" className="max-w-[24px]" />
+                      <img
+                        src={IconLocation}
+                        alt="Location Icon"
+                        className="max-w-[24px]"
+                      />
                       <span className="text-sm text-lightBlack font-medium">
                         Sidoarjo
                       </span>
