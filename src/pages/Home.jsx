@@ -6,10 +6,12 @@ import Wayang from "./home/Wayang";
 import Footer from "../components/Footer";
 import Museum from "./home/Museum";
 import Article from "./home/Article";
+import Navbar from "../components/Navbar";
 
 const Home = () => {
   return (
     <>
+      <Navbar />
       <Hero />
       <About />
       <Event />

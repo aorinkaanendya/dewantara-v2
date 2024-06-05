@@ -1,10 +1,10 @@
-import Event from "./About/index";
+import Content from "../pages/about/Content";
 import Footer from "../components/Footer";
 
 const About = () => {
   return (
     <>
-      <Event />
+      <Content />
       <Footer />
     </>
   );

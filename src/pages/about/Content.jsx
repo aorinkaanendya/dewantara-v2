@@ -3,7 +3,7 @@ import event2 from "../../assets/images/home/about/galery-2.png";
 import konten1 from "../../assets/images/about/content2.png";
 import konten2 from "../../assets/images/about/content3.png";
 
-export default function index() {
+export default function Content() {
   return (
     <section className="py-[72px]">
       <div className="container mx-auto">

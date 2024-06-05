@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 @layer base {
   body {
@@ -12,40 +12,43 @@
   }
 
   h2 {
-    @apply text-primary text-[40px] font-bold
+    @apply text-primary text-[40px] font-bold;
   }
 
   p {
-    @apply text-lightBlack text-base font-normal
+    @apply text-lightBlack text-base font-normal;
   }
 }
 
 @layer components {
   .btn {
-    @apply flex items-center justify-center gap-2
+    @apply flex items-center justify-center gap-2;
   }
 
   .btn-primary {
-    @apply px-9 py-4 bg-primary text-white font-semibold rounded-lg drop-shadow-[4px_4px_0_#000] hover:drop-shadow-[0_0_0_#000] hover:bg-primary_hover transition-all duration-300
+    @apply px-9 py-4 bg-primary text-white font-semibold rounded-lg drop-shadow-[4px_4px_0_#000] hover:drop-shadow-[0_0_0_#000] hover:bg-primary_hover transition-all duration-300;
   }
 
   .btn-search {
-    @apply py-2.5 px-5 bg-primary text-white font-semibold gap-1 rounded-[0_8px_8px_0]
+    @apply py-2.5 px-5 bg-primary text-white font-semibold gap-1 rounded-[0_8px_8px_0];
   }
 
   .btn-scan {
-    @apply py-2.5 px-6 border-2 border-primary rounded-lg text-primary font-semibold
+    @apply py-2.5 px-6 border-2 border-primary rounded-lg text-primary font-semibold;
   }
 
   .btn-icon {
-    @apply p-1 bg-primary hover:bg-primary_hover border-2 font-semibold gap-1 rounded-lg text-white transition-all duration-300 overflow-hidden
+    @apply p-1 bg-primary hover:bg-primary_hover border-2 font-semibold gap-1 rounded-lg text-white transition-all duration-300 overflow-hidden;
   }
 
   .btn-link {
-    @apply gap-3 text-primary py-3 hover:gap-4 transition-all duration-300 
+    @apply gap-3 text-primary py-3 hover:gap-4 transition-all duration-300;
   }
 
   .footer-link {
-    @apply text-whiteText font-medium text-base hover:text-primary transition-all duration-300
+    @apply text-whiteText font-medium text-base hover:text-primary transition-all duration-300;
+  }
+  .navbar-link {
+    @apply font-semibold text-base hover:text-primary transition-all duration-300;
   }
 }
