@@ -18,6 +18,36 @@
   p {
     @apply text-lightBlack text-base font-normal;
   }
+  .pagination {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+
+  .pagination-item {
+    margin: 0 5px;
+  }
+
+  .pagination-link {
+    display: inline-block;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: #adb5bd;
+    background-color: transparent;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+
+  .pagination-link:hover {
+    background-color: transparent;
+  }
+
+  .pagination-link.active {
+    background-color: #8c5e2d;
+    color: #fff;
+  }
 }
 
 @layer components {
