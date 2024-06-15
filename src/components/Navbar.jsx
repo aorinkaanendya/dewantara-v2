@@ -27,7 +27,7 @@ export default function Navbar() {
             <a href="/Museum">Museum</a>
           </li>
           <li className="navbar-link">
-            <a href="/">Artikel</a>
+            <a href="/Article">Artikel</a>
           </li>
         </ul>
       </nav>
