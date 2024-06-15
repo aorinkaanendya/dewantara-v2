@@ -21,7 +21,7 @@ export default function Navbar() {
             <a href="/Event">Event</a>
           </li>
           <li className="navbar-link">
-            <a href="/">Wayang</a>
+            <a href="/Wayang">Wayang</a>
           </li>
           <li className="navbar-link">
             <a href="/Museum">Museum</a>

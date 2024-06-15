@@ -21,21 +21,21 @@ export default function Footer() {
               </h5>
               <div className="wrapper flex gap-12 items-start">
                 <div className="wrap flex flex-col gap-4">
-                  <a href="/" className="footer-link">
+                  <a href="/About" className="footer-link">
                     Tentang Kami
                   </a>
-                  <a href="/" className="footer-link">
+                  <a href="/Event" className="footer-link">
                     Event Wayang
                   </a>
-                  <a href="/" className="footer-link">
+                  <a href="/Wayang" className="footer-link">
                     Para Wayang
                   </a>
                 </div>
                 <div className="wrap flex flex-col gap-4">
-                  <a href="/" className="footer-link">
+                  <a href="/Museum" className="footer-link">
                     Museum Wayang
                   </a>
-                  <a href="/" className="footer-link">
+                  <a href="/Article" className="footer-link">
                     Artikel
                   </a>
                 </div>
@@ -45,7 +45,10 @@ export default function Footer() {
               <h5 className="font-bold text-2xl text-secondary mb-4">
                 Kenali Dewantara
               </h5>
-              <a href="/" className="footer-link">
+              <a
+                href="https://www.instagram.com/pkmkc.dewantara"
+                className="footer-link"
+              >
                 Instagram Kami
               </a>
             </div>

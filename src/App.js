@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import Event from "./pages/Event"
 import Museum from "./pages/Museum"
 import Article from "./pages/Article"
+import Wayang from "./pages/Wayang"
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
         <Route path='/event' element={<Event />} />
         <Route path='/museum' element={<Museum />} />
         <Route path='/article' element={<Article />} />
+        <Route path='/wayang' element={<Wayang />} />
       </Routes>
     </Router>
   )
