@@ -166,13 +166,54 @@ function Wayang() {
                       Wayang Kulit
                     </span>
                   </div>
-                  <button className="btn btn-icon">
-                    <img src={IcArrow} alt="" />
-                  </button>
                 </div>
               </div>
             </div>
-            <button className="btn btn-primary">Lihat Wayang Lainnya</button>
+            <div className="flex justify-center items-center">
+              <nav aria-label="Pagination">
+                <ul className="pagination">
+                  <li className="pagination-item">
+                    <a
+                      className="pagination-link"
+                      href="/#"
+                      aria-label="Previous"
+                    >
+                      <span aria-hidden="true">Sebelumnya</span>
+                    </a>
+                  </li>
+                  <li className="pagination-item">
+                    <a className="pagination-link active" href="/#">
+                      1
+                    </a>
+                  </li>
+                  <li className="pagination-item">
+                    <a className="pagination-link" href="/#">
+                      2
+                    </a>
+                  </li>
+                  <li className="pagination-item">
+                    <a className="pagination-link" href="/#">
+                      3
+                    </a>
+                  </li>
+                  <li className="pagination-item">
+                    <a className="pagination-link" href="/#">
+                      4
+                    </a>
+                  </li>
+                  <li className="pagination-item">
+                    <a className="pagination-link" href="/#">
+                      5
+                    </a>
+                  </li>
+                  <li className="pagination-item">
+                    <a className="pagination-link" href="/#" aria-label="Next">
+                      <span aria-hidden="true">Selanjutnya</span>
+                    </a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
           </div>
         </div>
       </div>
