@@ -43,12 +43,12 @@ export default function Museum() {
                 <div className="card-body flex flex-col gap-2">
                   <div className="wrapper">
                     <h4 className="text-base font-semibold text-darkBlack mb-1.5">
-                      Museum Wayang Jakarta
+                      Museum Wayang Banyumas
                     </h4>
                     <div className="wrap flex items-center gap-1">
                       <img src={IconLocation} alt="" className="max-w-[24px]" />
                       <span className="text-sm text-lightBlack font-medium">
-                        Jakarta Barat, Jakarta
+                        Banyumas, Jawa Tengah
                       </span>
                     </div>
                     <button className="btn btn-link">
@@ -63,12 +63,12 @@ export default function Museum() {
                 <div className="card-body flex flex-col gap-2">
                   <div className="wrapper">
                     <h4 className="text-base font-semibold text-darkBlack mb-1.5">
-                      Museum Wayang Jakarta
+                      Museum Wayang Kulit Wonogiri
                     </h4>
                     <div className="wrap flex items-center gap-1">
                       <img src={IconLocation} alt="" className="max-w-[24px]" />
                       <span className="text-sm text-lightBlack font-medium">
-                        Jakarta Barat, Jakarta
+                        Wonogiri, Jawa Tengah
                       </span>
                     </div>
                     <button className="btn btn-link">

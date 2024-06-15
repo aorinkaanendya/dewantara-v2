@@ -24,7 +24,7 @@ export default function Content() {
                 <img src={ImageCard1} alt="" className="card-img" />
                 <div className="card-body flex flex-col gap-2">
                   <h4 className="text-base font-semibold text-darkBlack">
-                    Pesta Wayang 2023 - “Mewayang Hayu Eksistensi & Konservasi”
+                    Pagelaran Wayang Kulit HARJASDA
                   </h4>
                   <div className="wrapper">
                     <div className="wrap flex items-center gap-1">
@@ -46,19 +46,19 @@ export default function Content() {
                 <img src={ImageCard2} alt="" className="card-img" />
                 <div className="card-body flex flex-col gap-2">
                   <h4 className="text-base font-semibold text-darkBlack">
-                    Pesta Wayang 2023 - “Mewayang Hayu Eksistensi & Konservasi”
+                    Festival Wayang Orang Indonesia 2023
                   </h4>
                   <div className="wrapper">
                     <div className="wrap flex items-center gap-1">
                       <img src={IconCalender} alt="" className="max-w-[24px]" />
                       <span className="text-sm text-lightBlack font-medium">
-                        3 Februari 2024
+                        18 - 21 Oktober 2023
                       </span>
                     </div>
                     <div className="wrap flex items-center gap-1">
                       <img src={IconLocation} alt="" className="max-w-[24px]" />
                       <span className="text-sm text-lightBlack font-medium">
-                        Sidoarjo
+                        Semarang
                       </span>
                     </div>
                   </div>
@@ -68,19 +68,19 @@ export default function Content() {
                 <img src={ImageCard3} alt="" className="card-img" />
                 <div className="card-body flex flex-col gap-2">
                   <h4 className="text-base font-semibold text-darkBlack">
-                    Pesta Wayang 2023 - “Mewayang Hayu Eksistensi & Konservasi”
+                    Spesial Pagelaran Wayang Jawa Timur
                   </h4>
                   <div className="wrapper">
                     <div className="wrap flex items-center gap-1">
                       <img src={IconCalender} alt="" className="max-w-[24px]" />
                       <span className="text-sm text-lightBlack font-medium">
-                        3 Februari 2024
+                        26 - 27 Agustus 2024
                       </span>
                     </div>
                     <div className="wrap flex items-center gap-1">
                       <img src={IconLocation} alt="" className="max-w-[24px]" />
                       <span className="text-sm text-lightBlack font-medium">
-                        Sidoarjo
+                        Taman Candra Wilwatikta
                       </span>
                     </div>
                   </div>
@@ -112,19 +112,19 @@ export default function Content() {
                 <img src={ImageCard5} alt="" className="card-img" />
                 <div className="card-body flex flex-col gap-2">
                   <h4 className="text-base font-semibold text-darkBlack">
-                    Pesta Wayang 2023 - “Mewayang Hayu Eksistensi & Konservasi”
+                    Pesta Rakyat Hari Bhayangkara ke-77
                   </h4>
                   <div className="wrapper">
                     <div className="wrap flex items-center gap-1">
                       <img src={IconCalender} alt="" className="max-w-[24px]" />
                       <span className="text-sm text-lightBlack font-medium">
-                        3 Februari 2024
+                        1 Juli 2024
                       </span>
                     </div>
                     <div className="wrap flex items-center gap-1">
                       <img src={IconLocation} alt="" className="max-w-[24px]" />
                       <span className="text-sm text-lightBlack font-medium">
-                        Sidoarjo
+                        Bali
                       </span>
                     </div>
                   </div>
@@ -134,19 +134,19 @@ export default function Content() {
                 <img src={ImageCard6} alt="" className="card-img" />
                 <div className="card-body flex flex-col gap-2">
                   <h4 className="text-base font-semibold text-darkBlack">
-                    Pesta Wayang 2023 - “Mewayang Hayu Eksistensi & Konservasi”
+                    Pesta Rakyat Jawa Barat Pagelaran Seni Budaya Siliwangi
                   </h4>
                   <div className="wrapper">
                     <div className="wrap flex items-center gap-1">
                       <img src={IconCalender} alt="" className="max-w-[24px]" />
                       <span className="text-sm text-lightBlack font-medium">
-                        3 Februari 2024
+                        21 Maret 2024
                       </span>
                     </div>
                     <div className="wrap flex items-center gap-1">
                       <img src={IconLocation} alt="" className="max-w-[24px]" />
                       <span className="text-sm text-lightBlack font-medium">
-                        Sidoarjo
+                        Bandung
                       </span>
                     </div>
                   </div>
